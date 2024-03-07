@@ -5,7 +5,7 @@
 Eve, Ikram and Kenny are building a one to many relationship with one concert having many bands and one city.  This project will help the user find information about a concert or band to see where and when events will take place.  We are also giving the ability to the user to create, delete, update any concert or band at any time.  They can also find the concerts and bands by id, or name.  We are using Python and SQL for our coding.
 
 
-```VS Code model:
+```File structure:
 .
 ├── Pipfile
 ├── Pipfile.lock
